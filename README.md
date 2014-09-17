@@ -60,6 +60,18 @@ https://github.com/matthewrudy/fake-code4hk-app/blob/master/decompiled/smali/com
 
 And stores them at `"/data/data/com.v1/temp.amr"`
 
+### Using Baidu for geolocation
+
+It uses baidu to gather location data
+
+```
+iget-object v2, v0, Lcom/v1/StreamService;->m:Lcom/baidu/location/LocationClient;
+
+invoke-virtual {v2}, Lcom/baidu/location/LocationClient;->start()V
+```
+
+https://github.com/matthewrudy/fake-code4hk-app/blob/master/decompiled/smali/com/v1/StreamService.smali#L635-L637
+
 ### Reporting to a remote server
 
 The external IP address and port is set to `"61.36.11.75"` and `"1430"` respectively.
