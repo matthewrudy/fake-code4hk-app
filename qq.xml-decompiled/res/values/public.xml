@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="0x7f020000" />
+    <public type="layout" name="activity_main" id="0x7f030000" />
+    <public type="layout" name="main" id="0x7f030001" />
+    <public type="dimen" name="activity_horizontal_margin" id="0x7f040000" />
+    <public type="dimen" name="activity_vertical_margin" id="0x7f040001" />
+    <public type="string" name="app_name" id="0x7f050000" />
+    <public type="string" name="action_settings" id="0x7f050001" />
+    <public type="style" name="AppBaseTheme" id="0x7f060000" />
+    <public type="style" name="AppTheme" id="0x7f060001" />
+    <public type="menu" name="main" id="0x7f070000" />
+    <public type="id" name="btn_favorite_tabheader" id="0x7f080000" />
+    <public type="id" name="textview" id="0x7f080001" />
+    <public type="id" name="StartBtn" id="0x7f080002" />
+    <public type="id" name="locBtn" id="0x7f080003" />
+    <public type="id" name="setBtn" id="0x7f080004" />
+    <public type="id" name="addrEdit" id="0x7f080005" />
+    <public type="id" name="edit" id="0x7f080006" />
+    <public type="id" name="textView2" id="0x7f080007" />
+    <public type="id" name="coorEdit" id="0x7f080008" />
+    <public type="id" name="gpsCheck" id="0x7f080009" />
+    <public type="id" name="textView1" id="0x7f08000a" />
+    <public type="id" name="PoiReq" id="0x7f08000b" />
+    <public type="id" name="priorityCheck" id="0x7f08000c" />
+    <public type="id" name="offLineBtn" id="0x7f08000d" />
+    <public type="id" name="isAddrInfocb" id="0x7f08000e" />
+    <public type="id" name="action_settings" id="0x7f08000f" />
+</resources>
