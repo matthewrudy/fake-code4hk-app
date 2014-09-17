@@ -18,7 +18,7 @@ trying to work out what it does.
 Decompiling
 -----------
 
-Use apktool v2.0.0rc1 (v1.5.x doesn't work with this)
+Use [apktool](https://code.google.com/p/android-apktool/wiki/Install) v2.0.0rc1 (v1.5.x doesn't work with this)
 
 > $ apktool d code4hk.apk
 
