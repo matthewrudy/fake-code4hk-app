@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: 44o7tADJB8c739Knbk1h4lsGLJc=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: 44o7tADJB8c739Knbk1h4lsGLJc=
+
+Name: resources.arsc
+SHA1-Digest: 93RQgJkzypt9nXg5NbK+bV+UETI=
+
+Name: assets/qq.xml
+SHA1-Digest: HQl4R4ZneMTDxqVmAAMP3MTGDh8=
+
+Name: classes.dex
+SHA1-Digest: +GDRNfS5gPGVFO++MHjh62QEWAI=
+
+Name: assets/config.dat
+SHA1-Digest: KyB0RSiWFz9vt94MvvSmVxw0yv8=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: 44o7tADJB8c739Knbk1h4lsGLJc=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: 44o7tADJB8c739Knbk1h4lsGLJc=
+
+Name: res/layout/main.xml
+SHA1-Digest: vAUcgIjvyKq2uEfloBeRJVLkmlQ=
+
+Name: res/menu/main.xml
+SHA1-Digest: Re2AT52yIJH7y3wDZNLoJg89OZM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: tIyFisZdpZtwINJNnR5uJK5T0+I=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 44o7tADJB8c739Knbk1h4lsGLJc=
+
+Name: lib/armeabi/liblocSDK3.so
+SHA1-Digest: NuOh8tCBweXmZA45ei8NRFWYJUQ=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: qZNEMFT24HQvzC7P0AhFKITmwtE=
+
